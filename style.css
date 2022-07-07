@@ -1,12 +1,16 @@
-body {
-    background-color: #8fbc94;
-    background-image: url("https://github.com/i-gau/cosw10-activity2/blob/main/cat-background.jpg?raw=true");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: right;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-}
+
 h1 {border-width: 5px;
     background-color: #548678;
 }
-.cat-info {background-color: #56445d;}
+
+section {border-width: 5px;
+    background-color: #56445d;}
+
+body {
+        background-color: #8fbc94;
+        background-image: url("https://github.com/i-gau/cosw10-activity2/blob/main/cat-background.jpg?raw=true");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: right;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+    }
